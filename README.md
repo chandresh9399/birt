@@ -1,1 +1,1 @@
-# birt
+# Stellar-Workshop-Template
